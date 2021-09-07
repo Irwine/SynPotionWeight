@@ -1,3 +1,5 @@
+using Mutagen.Bethesda.WPF.Reflection.Attributes;
+
 namespace SynPotionWeight.Types
 {
     public class Settings
